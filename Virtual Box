@@ -1,0 +1,4 @@
+sudo modprobe -r kvm_amd
+
+
+Intel: sudo modprobe -r kvm_intel
