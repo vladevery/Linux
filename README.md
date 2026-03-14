@@ -34,6 +34,8 @@ qBittorrent
 
 4k Tokkit 
 
+Input Remapper  - key bind
+
 XNView          - file viewer
 
 Flameshot       - printscreen 
